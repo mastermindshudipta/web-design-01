@@ -1,0 +1,36 @@
+.full {
+	width: 75%;
+	border: 2px solid red;
+	margin: 0 auto;
+}
+.text{
+    display: flex;
+    gap: 98px;
+    border: 2px solid red;
+}
+.text p {
+	width: 27%;
+	margin-left: 146px;
+}
+.text img {
+	width: 18%;
+	margin: 8px 152px;
+}
+.png {
+	display: flex;
+	justify-content: center;
+	gap: 375px;
+    border: 2px solid red;
+}
+.png img {
+	width: 18%;
+	margin: 8px -30px;
+}
+.book {
+	width: 0px;
+	border: 2px solid red;
+	height: 254px;
+	position: relative;
+	top: -260px;
+	left: 647px;
+}
